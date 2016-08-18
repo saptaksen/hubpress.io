@@ -4,7 +4,11 @@
     "repositoryName": "saptaksen.github.io",
     "branch": "master"
   },
-  "site": {},
+  "site": {
+    "title": "Saptak Sen",
+    "description": "ramblings",
+    "postsPerPage": "3"
+  },
   "socialnetwork": {
     "email": "sen@saptak.in",
     "twitter": "@saptak",
