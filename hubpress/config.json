@@ -4,7 +4,13 @@
     "repositoryName": "saptaksen.github.io",
     "branch": "master"
   },
+  "site": {},
+  "socialnetwork": {
+    "email": "sen@saptak.in",
+    "twitter": "@saptak",
+    "github": "github.com/saptak"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
